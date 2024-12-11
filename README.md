@@ -1,7 +1,10 @@
 # Healthcare Data Analysis Project
 
 ## Overview  
-This project involves analyzing a large healthcare dataset containing 50,000 anonymized patient records. The goal was to uncover insights and trends related to various health conditions, demographics, and outcomes to support data-driven healthcare decisions.  
+This project involves analyzing a large healthcare dataset containing 50,000 anonymized patient records. The goal was to uncover insights and trends related to various health conditions, demographics, and outcomes to support data-driven healthcare decisions.
+
+
+![Healthconnect Dashboard](./healthconnect-dashboard.png)
 
 ---
 
@@ -28,5 +31,5 @@ This project involves analyzing a large healthcare dataset containing 50,000 ano
 - Decision tree predictions demonstrated potential for proactive healthcare planning.  
 
 - **Interactive Dashboard:** [View the Dashboard](https://public.tableau.com/app/profile/micheal.osazuwa/viz/HEALTHCONNECTDASHBOARD/HEALTHCONNECTDASHBOARD?publish=yes)  
-  *(Replace `#` with the link to your dashboard)*  
+   
 - *Detailed Report (PDF):** [Download the Report](HealthConnect-Data-Analysis-Report.pdf)
