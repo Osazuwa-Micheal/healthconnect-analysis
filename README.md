@@ -1,4 +1,4 @@
-# Healthcare Data Analysis Project
+# Healthconnect Data Analysis Project
 
 ## Overview  
 This project involves analyzing a large healthcare dataset containing 50,000 anonymized patient records. The goal was to uncover insights and trends related to various health conditions, demographics, and outcomes to support data-driven healthcare decisions.
