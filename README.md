@@ -27,3 +27,6 @@ This project involves analyzing a large healthcare dataset containing 50,000 ano
 - Gender-based analysis showed fairly even distribution of conditions with some slight variations.  
 - Decision tree predictions demonstrated potential for proactive healthcare planning.  
 
+- **Interactive Dashboard:** [View the Dashboard](https://public.tableau.com/app/profile/micheal.osazuwa/viz/HEALTHCONNECTDASHBOARD/HEALTHCONNECTDASHBOARD?publish=yes)  
+  *(Replace `#` with the link to your dashboard)*  
+- *Detailed Report (PDF):** [Download the Report](HealthConnect-Data-Analysis-Report.pdf)
